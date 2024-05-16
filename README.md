@@ -24,6 +24,7 @@ I am a recent graduate at IT-högskolan with a profound interest in technology a
 #
 
 ### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismelk91&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
+
 ![Ismelk91's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismelk91&show_icons=true&theme=codeSTACKr)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismelk91&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
