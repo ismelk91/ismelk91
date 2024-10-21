@@ -19,12 +19,3 @@ I am a recent graduate at IT-högskolan with a profound interest in technology a
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<br />
-
-#
-
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismelk91&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
-
-![Ismelk91's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismelk91&show_icons=true&theme=codeSTACKr)  
-
